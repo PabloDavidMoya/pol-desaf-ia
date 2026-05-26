@@ -26,8 +26,8 @@ No necesitás saber programar de antemano. Cada lección está diseñada para qu
 | 06 | [Agentes confiables y seguros](./06-agentes-confiables/README.md) | ✅ Disponible |
 | 07 | [Planificación](./07-planificacion/README.md) | ✅ Disponible |
 | 08 | [Multi-agente](./08-multi-agente/README.md) | ✅ Disponible |
-| 09 | Metacognición | 🔜 Próximamente |
-| 10 | Agentes en producción | 🔜 Próximamente |
+| 09 | [Metacognición](./09-metacognicion/README.md) | ✅ Disponible |
+| 10 | [Agentes en producción](./10-produccion/README.md) | ✅ Disponible |
 
 ---
 
