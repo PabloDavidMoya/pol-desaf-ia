@@ -22,8 +22,8 @@ No necesitás saber programar de antemano. Cada lección está diseñada para qu
 | 02 | [Frameworks para agentes](./02-frameworks-agentes/README.md) | ✅ Disponible |
 | 03 | [Patrones de diseño](./03-patrones-diseno/README.md) | ✅ Disponible |
 | 04 | [Herramientas (Tool Use)](./04-herramientas-tool-use/README.md) | ✅ Disponible |
-| 05 | Memoria y contexto | 🔜 Próximamente |
-| 06 | Agentes confiables | 🔜 Próximamente |
+| 05 | [Memoria y RAG Agéntico](./05-memoria-rag/README.md) | ✅ Disponible |
+| 06 | [Agentes confiables y seguros](./06-agentes-confiables/README.md) | ✅ Disponible |
 | 07 | Planificación | 🔜 Próximamente |
 | 08 | Multi-agente | 🔜 Próximamente |
 | 09 | Metacognición | 🔜 Próximamente |
