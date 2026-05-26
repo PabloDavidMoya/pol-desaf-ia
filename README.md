@@ -19,7 +19,7 @@ No necesitás saber programar de antemano. Cada lección está diseñada para qu
 | # | Lección | Estado |
 |---|---------|--------|
 | 01 | [¿Qué es un Agente de IA?](./01-intro-agentes-ia/README.md) | ✅ Disponible |
-| 02 | Frameworks para agentes | 🔜 Próximamente |
+| 02 | [Frameworks para agentes](./02-frameworks-agentes/README.md) | ✅ Disponible |
 | 03 | Patrones de diseño | 🔜 Próximamente |
 | 04 | Herramientas (Tool Use) | 🔜 Próximamente |
 | 05 | Memoria y contexto | 🔜 Próximamente |
